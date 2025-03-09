@@ -1,1 +1,1 @@
-# .github
+# Spokane Free Store
